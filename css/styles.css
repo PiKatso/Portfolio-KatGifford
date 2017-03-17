@@ -1,5 +1,6 @@
 body {
-  background-color: #4e5f60;
+  /*background-color: #4e5f60;*/
+  background-color: black;
 }
 
 nav {
@@ -43,19 +44,18 @@ img {
 
 img.kat {
   border-radius: 1%;
+  margin: auto;
+  max-width: 600px;
 }
 
 a {
   text-decoration: none;
   color: white;
 }
+
 #index {
   color: white;
   text-decoration: none;
-}
-
-.jumbotron {
-
 }
 
 h2 {
@@ -72,7 +72,7 @@ h4 {
 
 .kat {
   color: black;
-  text-align: center
+  text-align: center;
 }
 
 span {
