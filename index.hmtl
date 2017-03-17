@@ -1,7 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link href="css/bootstrap.css"  rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Kat Gifford</title>
   </head>
-
+  <body>
+    <div class="top-bar">
+      <h1>Kat Gifford</h1>
+      <nav class=nav-right>
+        <ul>
+          <li href="contact.html">contact</li>
+          <li>.</li>
+          <li href="about.html">about</li>
+          <li>.</li>
+          <li href="portfolio.html">portfolio</li>
+        </ul>
+      </nav>
+    </div>
+    <div class="bg-img">
+      <img src="img/bg-img.jpeg" alt=web development screen shot>
+    </div>
+  </body>
 </html>
