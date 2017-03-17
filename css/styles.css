@@ -3,13 +3,14 @@ body {
 }
 
 nav {
-  margin: 30px 0px 30px 30px;
+  margin: 15px 0px 15px 30px;
 }
 
 H1 {
   color: white;
-  margin: 0;
+  margin: 0 0 15px 10px;
   float: left;
+  hover: none;
 }
 
 li {
@@ -21,6 +22,15 @@ li {
 }
 
 img {
-  height: stretch;
+  height: fill-screen;
   width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+#index {
+  color: white;
+  text-decoration: none;
 }
