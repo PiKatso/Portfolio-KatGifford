@@ -8,6 +8,8 @@
 
 _This is a portfolio website developed to show case what I have learned in my first week at EPICODUS. It contains links review selected github repositories and my contact information-excluding my phone number._
 
+_link to site on Github : https://github.com/PiKatso/Portfolio-KatGifford_
+
 ## Setup/Installation Requirements
 
 * _clone to Git from Github_
