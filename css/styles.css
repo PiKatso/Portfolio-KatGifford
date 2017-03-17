@@ -6,9 +6,16 @@ nav {
   margin: 15px 0px 15px 30px;
 }
 
+.bg-white {
+  background-color: white;
+}
+
 H1 {
   color: white;
-  margin: 10px 0 0px 10px;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 50px;
+  margin: 20px 0 0px 15px;
   text-align: left;
   hover: none;
 }
@@ -19,15 +26,23 @@ li {
   display: inline;
   color: white;
   padding: 0 10px 10px 10px;
+  margin: 0 0 20px 5px;
 }
 
 p {
   color: white;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 15px;
 }
 
 img {
   height: fill-screen;
   width: 100%;
+  border-radius: 3%;
+}
+
+img.kat {
+  border-radius: 1%;
 }
 
 a {
@@ -45,4 +60,21 @@ a {
 
 h2 {
   text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 45px;
+}
+
+h4 {
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px;
+}
+
+.kat {
+  color: black;
+  text-align: center
+}
+
+span {
+  font-size: 25px;
 }
